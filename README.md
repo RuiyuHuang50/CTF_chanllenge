@@ -1,6 +1,7 @@
 # CTF Challenge Collection 🏆
 
 A comprehensive collection of Capture The Flag (CTF) challenges covering multiple cybersecurity domains including web exploitation, cryptography, forensics, binary analysis, and steganography.
+<img width="772" height="259" alt="image" src="https://github.com/user-attachments/assets/586ec8a6-c762-4768-b9fc-75db37eb32dd" />
 
 ## 📁 Challenge Catalog
 
