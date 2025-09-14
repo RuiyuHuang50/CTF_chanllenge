@@ -1,0 +1,41 @@
+🕸️  WEB CTF CHALLENGE ANALYZER
+============================================================
+🔍 Analyzing main page: https://2-we01.bootupctf.net/
+============================================================
+Status Code: 200
+Content-Type: text/html
+Content-Length: 186 bytes
+
+📋 HTTP Headers Analysis:
+------------------------------
+   Content-Type: text/html
+   Content-Length: 186
+   Connection: keep-alive
+   Date: Sat, 13 Sep 2025 03:47:02 GMT
+   Last-Modified: Tue, 13 Jun 2023 12:33:51 GMT
+   ETag: "6f0dfb056f68775ec530278f4dcc16df"
+   Server: AmazonS3
+   X-Cache: Miss from cloudfront
+   Via: 1.1 9387f08affa1cb3381ae76eb5bcc4b84.cloudfront.net (CloudFront)
+   X-Amz-Cf-Pop: PHX52-P1
+   X-Amz-Cf-Id: D9ER2eDejYYRs3O34nFarNVPw0fFann5fc1bWA7HgqPQ1gHgGRoiYQ==
+
+📄 HTML Content Analysis:
+------------------------------
+
+🔐 Base64 Analysis:
+------------------------------
+
+🗂️  Common Paths Analysis:
+------------------------------
+
+🖼️  Image Analysis:
+------------------------------
+   📸 Found image: https://2-we01.bootupctf.net/img/spongebob.gif
+      Size: 986643 bytes
+      Content-Type: image/gif
+      Saved to: /Users/mac/VirtualBox VMs/CTF_chanllenge/challenges/web_challenge_01/spongebob.gif
+
+🔍 Analysis complete. Check downloaded files for further investigation.
+
+🤔 No obvious flags found. Manual investigation may be required.

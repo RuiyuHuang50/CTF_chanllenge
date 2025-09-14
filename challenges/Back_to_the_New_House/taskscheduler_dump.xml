@@ -1,0 +1,5118 @@
+Record 1
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.590017Z">
+    </TimeCreated>
+    <EventRecordID>1</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5396">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">13256</Data>
+    <Data Name="Priority">32</Data>
+  </EventData>
+</Event>
+Record 2
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.590355Z">
+    </TimeCreated>
+    <EventRecordID>2</EventRecordID>
+    <Correlation ActivityID="6B632506-2131-473F-83CA-1F9E074A5AD8">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5396">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">6B632506-2131-473F-83CA-1F9E074A5AD8</Data>
+  </EventData>
+</Event>
+Record 3
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.590356Z">
+    </TimeCreated>
+    <EventRecordID>3</EventRecordID>
+    <Correlation ActivityID="6B632506-2131-473F-83CA-1F9E074A5AD8">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5396">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="ActionName">Color Calibration Loader</Data>
+    <Data Name="TaskInstanceId">6B632506-2131-473F-83CA-1F9E074A5AD8</Data>
+    <Data Name="EnginePID">13256</Data>
+  </EventData>
+</Event>
+Record 4
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.607724Z">
+    </TimeCreated>
+    <EventRecordID>4</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\RevertUpdates</Data>
+    <Data Name="Path">C:\Windows\System32\notepad.exe</Data>
+    <Data Name="ProcessID">11140</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 5
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.607897Z">
+    </TimeCreated>
+    <EventRecordID>5</EventRecordID>
+    <Correlation ActivityID="31D1CC49-D7C8-44E1-835C-9040CA134230">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\RevertUpdates</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">31D1CC49-D7C8-44E1-835C-9040CA134230</Data>
+  </EventData>
+</Event>
+Record 6
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.607898Z">
+    </TimeCreated>
+    <EventRecordID>6</EventRecordID>
+    <Correlation ActivityID="31D1CC49-D7C8-44E1-835C-9040CA134230">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\RevertUpdates</Data>
+    <Data Name="ActionName">C:\Windows\System32\notepad.exe</Data>
+    <Data Name="TaskInstanceId">31D1CC49-D7C8-44E1-835C-9040CA134230</Data>
+    <Data Name="EnginePID">11140</Data>
+  </EventData>
+</Event>
+Record 7
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.781513Z">
+    </TimeCreated>
+    <EventRecordID>7</EventRecordID>
+    <Correlation ActivityID="B038E645-6596-4666-A998-E55B4397A1A5">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">B038E645-6596-4666-A998-E55B4397A1A5</Data>
+  </EventData>
+</Event>
+Record 8
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:24.781514Z">
+    </TimeCreated>
+    <EventRecordID>8</EventRecordID>
+    <Correlation ActivityID="B038E645-6596-4666-A998-E55B4397A1A5">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="TaskInstanceId">B038E645-6596-4666-A998-E55B4397A1A5</Data>
+    <Data Name="EnginePID">3980</Data>
+  </EventData>
+</Event>
+Record 9
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:25.111021Z">
+    </TimeCreated>
+    <EventRecordID>9</EventRecordID>
+    <Correlation ActivityID="6B632506-2131-473F-83CA-1F9E074A5AD8">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="TaskInstanceId">6B632506-2131-473F-83CA-1F9E074A5AD8</Data>
+    <Data Name="ActionName">Color Calibration Loader</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">13256</Data>
+  </EventData>
+</Event>
+Record 10
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:25.111022Z">
+    </TimeCreated>
+    <EventRecordID>10</EventRecordID>
+    <Correlation ActivityID="6B632506-2131-473F-83CA-1F9E074A5AD8">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">6B632506-2131-473F-83CA-1F9E074A5AD8</Data>
+  </EventData>
+</Event>
+Record 11
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:25.119098Z">
+    </TimeCreated>
+    <EventRecordID>11</EventRecordID>
+    <Correlation ActivityID="B038E645-6596-4666-A998-E55B4397A1A5">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="TaskInstanceId">B038E645-6596-4666-A998-E55B4397A1A5</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">3980</Data>
+  </EventData>
+</Event>
+Record 12
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:25.119099Z">
+    </TimeCreated>
+    <EventRecordID>12</EventRecordID>
+    <Correlation ActivityID="B038E645-6596-4666-A998-E55B4397A1A5">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">B038E645-6596-4666-A998-E55B4397A1A5</Data>
+  </EventData>
+</Event>
+Record 13
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.773182Z">
+    </TimeCreated>
+    <EventRecordID>13</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">8124</Data>
+    <Data Name="Priority">32</Data>
+  </EventData>
+</Event>
+Record 14
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.773387Z">
+    </TimeCreated>
+    <EventRecordID>14</EventRecordID>
+    <Correlation ActivityID="3971D8BA-EFB9-4545-BE86-E4C6668C6025">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">3971D8BA-EFB9-4545-BE86-E4C6668C6025</Data>
+  </EventData>
+</Event>
+Record 15
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.773388Z">
+    </TimeCreated>
+    <EventRecordID>15</EventRecordID>
+    <Correlation ActivityID="3971D8BA-EFB9-4545-BE86-E4C6668C6025">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="5628">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="ActionName">Color Calibration Loader</Data>
+    <Data Name="TaskInstanceId">3971D8BA-EFB9-4545-BE86-E4C6668C6025</Data>
+    <Data Name="EnginePID">8124</Data>
+  </EventData>
+</Event>
+Record 16
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>325</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>325</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.971632Z">
+    </TimeCreated>
+    <EventRecordID>16</EventRecordID>
+    <Correlation ActivityID="EF1FBB6C-153C-4641-8166-100562E48AAA">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskInstanceQueued">
+    <Data Name="TaskName">\Microsoft\Windows\Shell\CreateObjectTask</Data>
+    <Data Name="QueuedTaskInstanceId">EF1FBB6C-153C-4641-8166-100562E48AAA</Data>
+  </EventData>
+</Event>
+Record 17
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>110</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>110</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.971795Z">
+    </TimeCreated>
+    <EventRecordID>17</EventRecordID>
+    <Correlation ActivityID="EF1FBB6C-153C-4641-8166-100562E48AAA">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskRunEvent">
+    <Data Name="TaskName">\Microsoft\Windows\Shell\CreateObjectTask</Data>
+    <Data Name="InstanceId">EF1FBB6C-153C-4641-8166-100562E48AAA</Data>
+    <Data Name="UserContext">System</Data>
+  </EventData>
+</Event>
+Record 18
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.976912Z">
+    </TimeCreated>
+    <EventRecordID>18</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\Shell\CreateObjectTask</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">13192</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 19
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.977010Z">
+    </TimeCreated>
+    <EventRecordID>19</EventRecordID>
+    <Correlation ActivityID="EF1FBB6C-153C-4641-8166-100562E48AAA">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\Shell\CreateObjectTask</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">EF1FBB6C-153C-4641-8166-100562E48AAA</Data>
+  </EventData>
+</Event>
+Record 20
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.977011Z">
+    </TimeCreated>
+    <EventRecordID>20</EventRecordID>
+    <Correlation ActivityID="EF1FBB6C-153C-4641-8166-100562E48AAA">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\Shell\CreateObjectTask</Data>
+    <Data Name="ActionName">Shell Create Object Task Delegate</Data>
+    <Data Name="TaskInstanceId">EF1FBB6C-153C-4641-8166-100562E48AAA</Data>
+    <Data Name="EnginePID">13192</Data>
+  </EventData>
+</Event>
+Record 21
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.988702Z">
+    </TimeCreated>
+    <EventRecordID>21</EventRecordID>
+    <Correlation ActivityID="EC282597-3DF7-415C-893A-B35B2149200B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">EC282597-3DF7-415C-893A-B35B2149200B</Data>
+  </EventData>
+</Event>
+Record 22
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:29.988704Z">
+    </TimeCreated>
+    <EventRecordID>22</EventRecordID>
+    <Correlation ActivityID="EC282597-3DF7-415C-893A-B35B2149200B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="TaskInstanceId">EC282597-3DF7-415C-893A-B35B2149200B</Data>
+    <Data Name="EnginePID">8124</Data>
+  </EventData>
+</Event>
+Record 23
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:30.446540Z">
+    </TimeCreated>
+    <EventRecordID>23</EventRecordID>
+    <Correlation ActivityID="3971D8BA-EFB9-4545-BE86-E4C6668C6025">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="TaskInstanceId">3971D8BA-EFB9-4545-BE86-E4C6668C6025</Data>
+    <Data Name="ActionName">Color Calibration Loader</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">8124</Data>
+  </EventData>
+</Event>
+Record 24
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:30.446541Z">
+    </TimeCreated>
+    <EventRecordID>24</EventRecordID>
+    <Correlation ActivityID="3971D8BA-EFB9-4545-BE86-E4C6668C6025">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">3971D8BA-EFB9-4545-BE86-E4C6668C6025</Data>
+  </EventData>
+</Event>
+Record 25
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:30.511344Z">
+    </TimeCreated>
+    <EventRecordID>25</EventRecordID>
+    <Correlation ActivityID="EC282597-3DF7-415C-893A-B35B2149200B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="TaskInstanceId">EC282597-3DF7-415C-893A-B35B2149200B</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">8124</Data>
+  </EventData>
+</Event>
+Record 26
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:30.511345Z">
+    </TimeCreated>
+    <EventRecordID>26</EventRecordID>
+    <Correlation ActivityID="EC282597-3DF7-415C-893A-B35B2149200B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">EC282597-3DF7-415C-893A-B35B2149200B</Data>
+  </EventData>
+</Event>
+Record 27
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>141</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>141</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:49.622041Z">
+    </TimeCreated>
+    <EventRecordID>27</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskDeleted">
+    <Data Name="TaskName">\DeliverUpdates</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\zeus</Data>
+  </EventData>
+</Event>
+Record 28
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>141</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>141</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:57.756493Z">
+    </TimeCreated>
+    <EventRecordID>28</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskDeleted">
+    <Data Name="TaskName">\RevertUpdates</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\zeus</Data>
+  </EventData>
+</Event>
+Record 29
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>111</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>111</Task>
+    <Opcode>103</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:57.757157Z">
+    </TimeCreated>
+    <EventRecordID>29</EventRecordID>
+    <Correlation ActivityID="31D1CC49-D7C8-44E1-835C-9040CA134230">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskTerminationEvent">
+    <Data Name="TaskName">\RevertUpdates</Data>
+    <Data Name="InstanceId">31D1CC49-D7C8-44E1-835C-9040CA134230</Data>
+  </EventData>
+</Event>
+Record 30
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>329</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>329</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:39:59.981339Z">
+    </TimeCreated>
+    <EventRecordID>30</EventRecordID>
+    <Correlation ActivityID="EF1FBB6C-153C-4641-8166-100562E48AAA">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="14080">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="StoppedOnTimeout">
+    <Data Name="TaskName">\Microsoft\Windows\Shell\CreateObjectTask</Data>
+    <Data Name="TaskInstanceId">EF1FBB6C-153C-4641-8166-100562E48AAA</Data>
+  </EventData>
+</Event>
+Record 31
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>141</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>141</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:40:01.822736Z">
+    </TimeCreated>
+    <EventRecordID>31</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskDeleted">
+    <Data Name="TaskName">\RunUpdates</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\zeus</Data>
+  </EventData>
+</Event>
+Record 32
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>106</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>106</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:19.345894Z">
+    </TimeCreated>
+    <EventRecordID>32</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskRegisteredEvent">
+    <Data Name="TaskName">\ChangeBackground</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\poseidon</Data>
+  </EventData>
+</Event>
+Record 33
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>108</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>108</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.602093Z">
+    </TimeCreated>
+    <EventRecordID>33</EventRecordID>
+    <Correlation ActivityID="D0A458B2-8E82-409E-B867-873A4D73211B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="15168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="EventTriggerEvent">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="InstanceId">D0A458B2-8E82-409E-B867-873A4D73211B</Data>
+  </EventData>
+</Event>
+Record 34
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>119</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>119</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.607357Z">
+    </TimeCreated>
+    <EventRecordID>34</EventRecordID>
+    <Correlation ActivityID="3C4022FF-ABDD-48C7-91A5-06670CE4A554">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="LogonTrigger">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">3C4022FF-ABDD-48C7-91A5-06670CE4A554</Data>
+  </EventData>
+</Event>
+Record 35
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.613777Z">
+    </TimeCreated>
+    <EventRecordID>35</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="Path">%windir%\system32\ProvTool.exe</Data>
+    <Data Name="ProcessID">15020</Data>
+    <Data Name="Priority">64</Data>
+  </EventData>
+</Event>
+Record 36
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.614344Z">
+    </TimeCreated>
+    <EventRecordID>36</EventRecordID>
+    <Correlation ActivityID="3C4022FF-ABDD-48C7-91A5-06670CE4A554">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">3C4022FF-ABDD-48C7-91A5-06670CE4A554</Data>
+  </EventData>
+</Event>
+Record 37
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.614345Z">
+    </TimeCreated>
+    <EventRecordID>37</EventRecordID>
+    <Correlation ActivityID="3C4022FF-ABDD-48C7-91A5-06670CE4A554">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="ActionName">%windir%\system32\ProvTool.exe</Data>
+    <Data Name="TaskInstanceId">3C4022FF-ABDD-48C7-91A5-06670CE4A554</Data>
+    <Data Name="EnginePID">15020</Data>
+  </EventData>
+</Event>
+Record 38
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.628522Z">
+    </TimeCreated>
+    <EventRecordID>38</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="15168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">13196</Data>
+    <Data Name="Priority">32</Data>
+  </EventData>
+</Event>
+Record 39
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.628878Z">
+    </TimeCreated>
+    <EventRecordID>39</EventRecordID>
+    <Correlation ActivityID="D0A458B2-8E82-409E-B867-873A4D73211B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="15168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">D0A458B2-8E82-409E-B867-873A4D73211B</Data>
+  </EventData>
+</Event>
+Record 40
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.628880Z">
+    </TimeCreated>
+    <EventRecordID>40</EventRecordID>
+    <Correlation ActivityID="D0A458B2-8E82-409E-B867-873A4D73211B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="15168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="ActionName">Language Components Installer</Data>
+    <Data Name="TaskInstanceId">D0A458B2-8E82-409E-B867-873A4D73211B</Data>
+    <Data Name="EnginePID">13196</Data>
+  </EventData>
+</Event>
+Record 41
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>322</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>322</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.629311Z">
+    </TimeCreated>
+    <EventRecordID>41</EventRecordID>
+    <Correlation ActivityID="D0A458B2-8E82-409E-B867-873A4D73211B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="15168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceIgnored">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="TaskInstanceId">D0A458B2-8E82-409E-B867-873A4D73211B</Data>
+  </EventData>
+</Event>
+Record 42
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>322</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>322</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.629424Z">
+    </TimeCreated>
+    <EventRecordID>42</EventRecordID>
+    <Correlation ActivityID="D0A458B2-8E82-409E-B867-873A4D73211B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="15168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceIgnored">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="TaskInstanceId">D0A458B2-8E82-409E-B867-873A4D73211B</Data>
+  </EventData>
+</Event>
+Record 43
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>108</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>108</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.665781Z">
+    </TimeCreated>
+    <EventRecordID>43</EventRecordID>
+    <Correlation ActivityID="BF078930-A333-470C-9910-A7365F2714EC">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="EventTriggerEvent">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical</Data>
+    <Data Name="InstanceId">BF078930-A333-470C-9910-A7365F2714EC</Data>
+  </EventData>
+</Event>
+Record 44
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.668142Z">
+    </TimeCreated>
+    <EventRecordID>44</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">14072</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 45
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.692630Z">
+    </TimeCreated>
+    <EventRecordID>45</EventRecordID>
+    <Correlation ActivityID="BF078930-A333-470C-9910-A7365F2714EC">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">BF078930-A333-470C-9910-A7365F2714EC</Data>
+  </EventData>
+</Event>
+Record 46
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.692632Z">
+    </TimeCreated>
+    <EventRecordID>46</EventRecordID>
+    <Correlation ActivityID="BF078930-A333-470C-9910-A7365F2714EC">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical</Data>
+    <Data Name="ActionName"></Data>
+    <Data Name="TaskInstanceId">BF078930-A333-470C-9910-A7365F2714EC</Data>
+    <Data Name="EnginePID">14072</Data>
+  </EventData>
+</Event>
+Record 47
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>108</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>108</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.715129Z">
+    </TimeCreated>
+    <EventRecordID>47</EventRecordID>
+    <Correlation ActivityID="E6C2E46E-AC16-4021-BA6E-752124AEF787">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="EventTriggerEvent">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical</Data>
+    <Data Name="InstanceId">E6C2E46E-AC16-4021-BA6E-752124AEF787</Data>
+  </EventData>
+</Event>
+Record 48
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.715289Z">
+    </TimeCreated>
+    <EventRecordID>48</EventRecordID>
+    <Correlation ActivityID="E6C2E46E-AC16-4021-BA6E-752124AEF787">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">E6C2E46E-AC16-4021-BA6E-752124AEF787</Data>
+  </EventData>
+</Event>
+Record 49
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.715291Z">
+    </TimeCreated>
+    <EventRecordID>49</EventRecordID>
+    <Correlation ActivityID="E6C2E46E-AC16-4021-BA6E-752124AEF787">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical</Data>
+    <Data Name="ActionName"></Data>
+    <Data Name="TaskInstanceId">E6C2E46E-AC16-4021-BA6E-752124AEF787</Data>
+    <Data Name="EnginePID">14072</Data>
+  </EventData>
+</Event>
+Record 50
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>119</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>119</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.716845Z">
+    </TimeCreated>
+    <EventRecordID>50</EventRecordID>
+    <Correlation ActivityID="44A5D775-BA2C-4AB1-933F-5B299FC1FFFB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="LogonTrigger">
+    <Data Name="TaskName">\Microsoft\Windows\Device Information\Device User</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">44A5D775-BA2C-4AB1-933F-5B299FC1FFFB</Data>
+  </EventData>
+</Event>
+Record 51
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.719122Z">
+    </TimeCreated>
+    <EventRecordID>51</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\Device Information\Device User</Data>
+    <Data Name="Path">%windir%\system32\devicecensus.exe</Data>
+    <Data Name="ProcessID">10916</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 52
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.719365Z">
+    </TimeCreated>
+    <EventRecordID>52</EventRecordID>
+    <Correlation ActivityID="44A5D775-BA2C-4AB1-933F-5B299FC1FFFB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\Device Information\Device User</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">44A5D775-BA2C-4AB1-933F-5B299FC1FFFB</Data>
+  </EventData>
+</Event>
+Record 53
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.719366Z">
+    </TimeCreated>
+    <EventRecordID>53</EventRecordID>
+    <Correlation ActivityID="44A5D775-BA2C-4AB1-933F-5B299FC1FFFB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\Device Information\Device User</Data>
+    <Data Name="ActionName">%windir%\system32\devicecensus.exe</Data>
+    <Data Name="TaskInstanceId">44A5D775-BA2C-4AB1-933F-5B299FC1FFFB</Data>
+    <Data Name="EnginePID">10916</Data>
+  </EventData>
+</Event>
+Record 54
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>328</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>328</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.719885Z">
+    </TimeCreated>
+    <EventRecordID>54</EventRecordID>
+    <Correlation ActivityID="D0A458B2-8E82-409E-B867-873A4D73211B">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="StoppingOnIdleEnd">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="TaskInstanceId">D0A458B2-8E82-409E-B867-873A4D73211B</Data>
+  </EventData>
+</Event>
+Record 55
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.721894Z">
+    </TimeCreated>
+    <EventRecordID>55</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">NT TASK\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">12816</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 56
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.721907Z">
+    </TimeCreated>
+    <EventRecordID>56</EventRecordID>
+    <Correlation ActivityID="3C4022FF-ABDD-48C7-91A5-06670CE4A554">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="TaskInstanceId">3C4022FF-ABDD-48C7-91A5-06670CE4A554</Data>
+    <Data Name="ActionName">%windir%\system32\ProvTool.exe</Data>
+    <Data Name="ResultCode">2147943691</Data>
+    <Data Name="EnginePID">15020</Data>
+  </EventData>
+</Event>
+Record 57
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.721962Z">
+    </TimeCreated>
+    <EventRecordID>57</EventRecordID>
+    <Correlation ActivityID="3C4022FF-ABDD-48C7-91A5-06670CE4A554">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">3C4022FF-ABDD-48C7-91A5-06670CE4A554</Data>
+  </EventData>
+</Event>
+Record 58
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>328</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>328</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.721966Z">
+    </TimeCreated>
+    <EventRecordID>58</EventRecordID>
+    <Correlation ActivityID="3C4022FF-ABDD-48C7-91A5-06670CE4A554">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="StoppingOnIdleEnd">
+    <Data Name="TaskName">\Microsoft\Windows\Management\Provisioning\Logon</Data>
+    <Data Name="TaskInstanceId">3C4022FF-ABDD-48C7-91A5-06670CE4A554</Data>
+  </EventData>
+</Event>
+Record 59
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>328</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>328</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.722131Z">
+    </TimeCreated>
+    <EventRecordID>59</EventRecordID>
+    <Correlation ActivityID="BF078930-A333-470C-9910-A7365F2714EC">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="StoppingOnIdleEnd">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical</Data>
+    <Data Name="TaskInstanceId">BF078930-A333-470C-9910-A7365F2714EC</Data>
+  </EventData>
+</Event>
+Record 60
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>328</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>328</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.722622Z">
+    </TimeCreated>
+    <EventRecordID>60</EventRecordID>
+    <Correlation ActivityID="E6C2E46E-AC16-4021-BA6E-752124AEF787">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="StoppingOnIdleEnd">
+    <Data Name="TaskName">\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical</Data>
+    <Data Name="TaskInstanceId">E6C2E46E-AC16-4021-BA6E-752124AEF787</Data>
+  </EventData>
+</Event>
+Record 61
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.731458Z">
+    </TimeCreated>
+    <EventRecordID>61</EventRecordID>
+    <Correlation ActivityID="5C9F080B-DEAE-4F9C-8874-A8035B73153A">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">5C9F080B-DEAE-4F9C-8874-A8035B73153A</Data>
+  </EventData>
+</Event>
+Record 62
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.731459Z">
+    </TimeCreated>
+    <EventRecordID>62</EventRecordID>
+    <Correlation ActivityID="5C9F080B-DEAE-4F9C-8874-A8035B73153A">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="ActionName">Color Calibration Loader</Data>
+    <Data Name="TaskInstanceId">5C9F080B-DEAE-4F9C-8874-A8035B73153A</Data>
+    <Data Name="EnginePID">3980</Data>
+  </EventData>
+</Event>
+Record 63
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.911342Z">
+    </TimeCreated>
+    <EventRecordID>63</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="14136">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">13936</Data>
+    <Data Name="Priority">32</Data>
+  </EventData>
+</Event>
+Record 64
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.911467Z">
+    </TimeCreated>
+    <EventRecordID>64</EventRecordID>
+    <Correlation ActivityID="8609BC0B-4FBF-48FF-B470-076F3C25B60E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="14136">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">8609BC0B-4FBF-48FF-B470-076F3C25B60E</Data>
+  </EventData>
+</Event>
+Record 65
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:33.911468Z">
+    </TimeCreated>
+    <EventRecordID>65</EventRecordID>
+    <Correlation ActivityID="8609BC0B-4FBF-48FF-B470-076F3C25B60E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="14136">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="TaskInstanceId">8609BC0B-4FBF-48FF-B470-076F3C25B60E</Data>
+    <Data Name="EnginePID">13936</Data>
+  </EventData>
+</Event>
+Record 66
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:34.234618Z">
+    </TimeCreated>
+    <EventRecordID>66</EventRecordID>
+    <Correlation ActivityID="5C9F080B-DEAE-4F9C-8874-A8035B73153A">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="TaskInstanceId">5C9F080B-DEAE-4F9C-8874-A8035B73153A</Data>
+    <Data Name="ActionName">Color Calibration Loader</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">3980</Data>
+  </EventData>
+</Event>
+Record 67
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:34.234619Z">
+    </TimeCreated>
+    <EventRecordID>67</EventRecordID>
+    <Correlation ActivityID="5C9F080B-DEAE-4F9C-8874-A8035B73153A">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsColorSystem\Calibration Loader</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">5C9F080B-DEAE-4F9C-8874-A8035B73153A</Data>
+  </EventData>
+</Event>
+Record 68
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:34.240975Z">
+    </TimeCreated>
+    <EventRecordID>68</EventRecordID>
+    <Correlation ActivityID="8609BC0B-4FBF-48FF-B470-076F3C25B60E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="TaskInstanceId">8609BC0B-4FBF-48FF-B470-076F3C25B60E</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">13936</Data>
+  </EventData>
+</Event>
+Record 69
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:34.240976Z">
+    </TimeCreated>
+    <EventRecordID>69</EventRecordID>
+    <Correlation ActivityID="8609BC0B-4FBF-48FF-B470-076F3C25B60E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">8609BC0B-4FBF-48FF-B470-076F3C25B60E</Data>
+  </EventData>
+</Event>
+Record 70
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:34.375492Z">
+    </TimeCreated>
+    <EventRecordID>70</EventRecordID>
+    <Correlation ActivityID="44A5D775-BA2C-4AB1-933F-5B299FC1FFFB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\Device Information\Device User</Data>
+    <Data Name="TaskInstanceId">44A5D775-BA2C-4AB1-933F-5B299FC1FFFB</Data>
+    <Data Name="ActionName">%windir%\system32\devicecensus.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">10916</Data>
+  </EventData>
+</Event>
+Record 71
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:34.375627Z">
+    </TimeCreated>
+    <EventRecordID>71</EventRecordID>
+    <Correlation ActivityID="44A5D775-BA2C-4AB1-933F-5B299FC1FFFB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="7712">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\Device Information\Device User</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">44A5D775-BA2C-4AB1-933F-5B299FC1FFFB</Data>
+  </EventData>
+</Event>
+Record 72
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:35.007102Z">
+    </TimeCreated>
+    <EventRecordID>72</EventRecordID>
+    <Correlation ActivityID="919A9832-31C5-457D-987D-AFD41BA1A798">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="14136">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">919A9832-31C5-457D-987D-AFD41BA1A798</Data>
+  </EventData>
+</Event>
+Record 73
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:35.007104Z">
+    </TimeCreated>
+    <EventRecordID>73</EventRecordID>
+    <Correlation ActivityID="919A9832-31C5-457D-987D-AFD41BA1A798">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="14136">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="TaskInstanceId">919A9832-31C5-457D-987D-AFD41BA1A798</Data>
+    <Data Name="EnginePID">3980</Data>
+  </EventData>
+</Event>
+Record 74
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:35.245729Z">
+    </TimeCreated>
+    <EventRecordID>74</EventRecordID>
+    <Correlation ActivityID="919A9832-31C5-457D-987D-AFD41BA1A798">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="TaskInstanceId">919A9832-31C5-457D-987D-AFD41BA1A798</Data>
+    <Data Name="ActionName">Certificate Services Client Task Handler</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">3980</Data>
+  </EventData>
+</Event>
+Record 75
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:41:35.245730Z">
+    </TimeCreated>
+    <EventRecordID>75</EventRecordID>
+    <Correlation ActivityID="919A9832-31C5-457D-987D-AFD41BA1A798">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\UserTask-Roam</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">919A9832-31C5-457D-987D-AFD41BA1A798</Data>
+  </EventData>
+</Event>
+Record 76
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:42:36.894046Z">
+    </TimeCreated>
+    <EventRecordID>76</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\WindowsUpdate\Scheduled Start</Data>
+    <Data Name="UserName">NT AUTHORITY\SYSTEM</Data>
+  </EventData>
+</Event>
+Record 77
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:00.244499Z">
+    </TimeCreated>
+    <EventRecordID>77</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 78
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:00.269354Z">
+    </TimeCreated>
+    <EventRecordID>78</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 79
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:00.274191Z">
+    </TimeCreated>
+    <EventRecordID>79</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 80
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:00.277388Z">
+    </TimeCreated>
+    <EventRecordID>80</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 81
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:00.281882Z">
+    </TimeCreated>
+    <EventRecordID>81</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 82
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:00.285396Z">
+    </TimeCreated>
+    <EventRecordID>82</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="1932">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 83
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:43:30.223314Z">
+    </TimeCreated>
+    <EventRecordID>83</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11352">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 84
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:44:00.999855Z">
+    </TimeCreated>
+    <EventRecordID>84</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11352">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">13032</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 85
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:44:01.000061Z">
+    </TimeCreated>
+    <EventRecordID>85</EventRecordID>
+    <Correlation ActivityID="8D3496C0-9423-4A40-8A80-174549B0AD6E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11352">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">8D3496C0-9423-4A40-8A80-174549B0AD6E</Data>
+  </EventData>
+</Event>
+Record 86
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:44:01.000063Z">
+    </TimeCreated>
+    <EventRecordID>86</EventRecordID>
+    <Correlation ActivityID="8D3496C0-9423-4A40-8A80-174549B0AD6E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11352">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="ActionName">NGC Pregeneration Task Handler</Data>
+    <Data Name="TaskInstanceId">8D3496C0-9423-4A40-8A80-174549B0AD6E</Data>
+    <Data Name="EnginePID">13032</Data>
+  </EventData>
+</Event>
+Record 87
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>202</EventID>
+    <Version>1</Version>
+    <Level>2</Level>
+    <Task>202</Task>
+    <Opcode>102</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:44:01.016596Z">
+    </TimeCreated>
+    <EventRecordID>87</EventRecordID>
+    <Correlation ActivityID="8D3496C0-9423-4A40-8A80-174549B0AD6E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11352">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionFailure">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="TaskInstanceId">8D3496C0-9423-4A40-8A80-174549B0AD6E</Data>
+    <Data Name="ActionName">NGC Pregeneration Task Handler</Data>
+    <Data Name="ResultCode">2148073520</Data>
+    <Data Name="EnginePID">13032</Data>
+  </EventData>
+</Event>
+Record 88
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>103</EventID>
+    <Version>0</Version>
+    <Level>2</Level>
+    <Task>103</Task>
+    <Opcode>102</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:44:01.016597Z">
+    </TimeCreated>
+    <EventRecordID>88</EventRecordID>
+    <Correlation ActivityID="8D3496C0-9423-4A40-8A80-174549B0AD6E">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11352">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskFailureEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="InstanceId">8D3496C0-9423-4A40-8A80-174549B0AD6E</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="ResultCode">2148073520</Data>
+  </EventData>
+</Event>
+Record 89
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>119</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>119</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.268932Z">
+    </TimeCreated>
+    <EventRecordID>89</EventRecordID>
+    <Correlation ActivityID="91CEDA6F-2C03-4EE0-943A-516870BF1CAD">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="LogonTrigger">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">91CEDA6F-2C03-4EE0-943A-516870BF1CAD</Data>
+  </EventData>
+</Event>
+Record 90
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.271604Z">
+    </TimeCreated>
+    <EventRecordID>90</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">10880</Data>
+    <Data Name="Priority">32</Data>
+  </EventData>
+</Event>
+Record 91
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.271824Z">
+    </TimeCreated>
+    <EventRecordID>91</EventRecordID>
+    <Correlation ActivityID="91CEDA6F-2C03-4EE0-943A-516870BF1CAD">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">91CEDA6F-2C03-4EE0-943A-516870BF1CAD</Data>
+  </EventData>
+</Event>
+Record 92
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.271825Z">
+    </TimeCreated>
+    <EventRecordID>92</EventRecordID>
+    <Correlation ActivityID="91CEDA6F-2C03-4EE0-943A-516870BF1CAD">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="ActionName">Language Components Installer</Data>
+    <Data Name="TaskInstanceId">91CEDA6F-2C03-4EE0-943A-516870BF1CAD</Data>
+    <Data Name="EnginePID">10880</Data>
+  </EventData>
+</Event>
+Record 93
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>119</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>119</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.272284Z">
+    </TimeCreated>
+    <EventRecordID>93</EventRecordID>
+    <Correlation ActivityID="CCDE6F95-CB5F-46C5-9014-FCE183628050">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="LogonTrigger">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterUserDevice</Data>
+    <Data Name="UserName">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">CCDE6F95-CB5F-46C5-9014-FCE183628050</Data>
+  </EventData>
+</Event>
+Record 94
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.272666Z">
+    </TimeCreated>
+    <EventRecordID>94</EventRecordID>
+    <Correlation ActivityID="CCDE6F95-CB5F-46C5-9014-FCE183628050">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterUserDevice</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">CCDE6F95-CB5F-46C5-9014-FCE183628050</Data>
+  </EventData>
+</Event>
+Record 95
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.272667Z">
+    </TimeCreated>
+    <EventRecordID>95</EventRecordID>
+    <Correlation ActivityID="CCDE6F95-CB5F-46C5-9014-FCE183628050">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterUserDevice</Data>
+    <Data Name="ActionName">Device Directory Client Handler</Data>
+    <Data Name="TaskInstanceId">CCDE6F95-CB5F-46C5-9014-FCE183628050</Data>
+    <Data Name="EnginePID">10880</Data>
+  </EventData>
+</Event>
+Record 96
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.378191Z">
+    </TimeCreated>
+    <EventRecordID>96</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13120">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterDeviceAccountChange</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">12900</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 97
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.378277Z">
+    </TimeCreated>
+    <EventRecordID>97</EventRecordID>
+    <Correlation ActivityID="01BE439E-5FE0-480E-BDAB-45F7CECE89FB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13120">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterDeviceAccountChange</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">01BE439E-5FE0-480E-BDAB-45F7CECE89FB</Data>
+  </EventData>
+</Event>
+Record 98
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.378278Z">
+    </TimeCreated>
+    <EventRecordID>98</EventRecordID>
+    <Correlation ActivityID="01BE439E-5FE0-480E-BDAB-45F7CECE89FB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13120">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterDeviceAccountChange</Data>
+    <Data Name="ActionName">Device Directory Client Handler</Data>
+    <Data Name="TaskInstanceId">01BE439E-5FE0-480E-BDAB-45F7CECE89FB</Data>
+    <Data Name="EnginePID">12900</Data>
+  </EventData>
+</Event>
+Record 99
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.387035Z">
+    </TimeCreated>
+    <EventRecordID>99</EventRecordID>
+    <Correlation ActivityID="CCDE6F95-CB5F-46C5-9014-FCE183628050">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13120">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterUserDevice</Data>
+    <Data Name="TaskInstanceId">CCDE6F95-CB5F-46C5-9014-FCE183628050</Data>
+    <Data Name="ActionName">Device Directory Client Handler</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">10880</Data>
+  </EventData>
+</Event>
+Record 100
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.387037Z">
+    </TimeCreated>
+    <EventRecordID>100</EventRecordID>
+    <Correlation ActivityID="CCDE6F95-CB5F-46C5-9014-FCE183628050">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13120">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterUserDevice</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">CCDE6F95-CB5F-46C5-9014-FCE183628050</Data>
+  </EventData>
+</Event>
+Record 101
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.997278Z">
+    </TimeCreated>
+    <EventRecordID>101</EventRecordID>
+    <Correlation ActivityID="91CEDA6F-2C03-4EE0-943A-516870BF1CAD">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="TaskInstanceId">91CEDA6F-2C03-4EE0-943A-516870BF1CAD</Data>
+    <Data Name="ActionName">Language Components Installer</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">10880</Data>
+  </EventData>
+</Event>
+Record 102
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:29.997279Z">
+    </TimeCreated>
+    <EventRecordID>102</EventRecordID>
+    <Correlation ActivityID="91CEDA6F-2C03-4EE0-943A-516870BF1CAD">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\LanguageComponentsInstaller\Installation</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">91CEDA6F-2C03-4EE0-943A-516870BF1CAD</Data>
+  </EventData>
+</Event>
+Record 103
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:30.049166Z">
+    </TimeCreated>
+    <EventRecordID>103</EventRecordID>
+    <Correlation ActivityID="01BE439E-5FE0-480E-BDAB-45F7CECE89FB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11520">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterDeviceAccountChange</Data>
+    <Data Name="TaskInstanceId">01BE439E-5FE0-480E-BDAB-45F7CECE89FB</Data>
+    <Data Name="ActionName">Device Directory Client Handler</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">12900</Data>
+  </EventData>
+</Event>
+Record 104
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:48:30.049168Z">
+    </TimeCreated>
+    <EventRecordID>104</EventRecordID>
+    <Correlation ActivityID="01BE439E-5FE0-480E-BDAB-45F7CECE89FB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11520">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\Microsoft\Windows\DeviceDirectoryClient\RegisterDeviceAccountChange</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">01BE439E-5FE0-480E-BDAB-45F7CECE89FB</Data>
+  </EventData>
+</Event>
+Record 105
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:05.672255Z">
+    </TimeCreated>
+    <EventRecordID>105</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="11520">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 106
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:05.695559Z">
+    </TimeCreated>
+    <EventRecordID>106</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 107
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:05.700242Z">
+    </TimeCreated>
+    <EventRecordID>107</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 108
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:05.703273Z">
+    </TimeCreated>
+    <EventRecordID>108</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 109
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:05.710500Z">
+    </TimeCreated>
+    <EventRecordID>109</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 110
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:05.722430Z">
+    </TimeCreated>
+    <EventRecordID>110</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 111
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:30.766100Z">
+    </TimeCreated>
+    <EventRecordID>111</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">12028</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 112
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:30.766256Z">
+    </TimeCreated>
+    <EventRecordID>112</EventRecordID>
+    <Correlation ActivityID="CCFB719D-EDC9-4257-BBF5-B55E7EE058CB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">CCFB719D-EDC9-4257-BBF5-B55E7EE058CB</Data>
+  </EventData>
+</Event>
+Record 113
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:30.766257Z">
+    </TimeCreated>
+    <EventRecordID>113</EventRecordID>
+    <Correlation ActivityID="CCFB719D-EDC9-4257-BBF5-B55E7EE058CB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="ActionName">NGC Pregeneration Task Handler</Data>
+    <Data Name="TaskInstanceId">CCFB719D-EDC9-4257-BBF5-B55E7EE058CB</Data>
+    <Data Name="EnginePID">12028</Data>
+  </EventData>
+</Event>
+Record 114
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>202</EventID>
+    <Version>1</Version>
+    <Level>2</Level>
+    <Task>202</Task>
+    <Opcode>102</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:30.778694Z">
+    </TimeCreated>
+    <EventRecordID>114</EventRecordID>
+    <Correlation ActivityID="CCFB719D-EDC9-4257-BBF5-B55E7EE058CB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionFailure">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="TaskInstanceId">CCFB719D-EDC9-4257-BBF5-B55E7EE058CB</Data>
+    <Data Name="ActionName">NGC Pregeneration Task Handler</Data>
+    <Data Name="ResultCode">2148073520</Data>
+    <Data Name="EnginePID">12028</Data>
+  </EventData>
+</Event>
+Record 115
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>103</EventID>
+    <Version>0</Version>
+    <Level>2</Level>
+    <Task>103</Task>
+    <Opcode>102</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:30.778695Z">
+    </TimeCreated>
+    <EventRecordID>115</EventRecordID>
+    <Correlation ActivityID="CCFB719D-EDC9-4257-BBF5-B55E7EE058CB">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskFailureEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="InstanceId">CCFB719D-EDC9-4257-BBF5-B55E7EE058CB</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="ResultCode">2148073520</Data>
+  </EventData>
+</Event>
+Record 116
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:31.419155Z">
+    </TimeCreated>
+    <EventRecordID>116</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 117
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:31.422124Z">
+    </TimeCreated>
+    <EventRecordID>117</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 118
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:31.426209Z">
+    </TimeCreated>
+    <EventRecordID>118</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 119
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:31.428850Z">
+    </TimeCreated>
+    <EventRecordID>119</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 120
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:31.432499Z">
+    </TimeCreated>
+    <EventRecordID>120</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 121
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:49:31.435773Z">
+    </TimeCreated>
+    <EventRecordID>121</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 122
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:01.414055Z">
+    </TimeCreated>
+    <EventRecordID>122</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 123
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.063973Z">
+    </TimeCreated>
+    <EventRecordID>123</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="Path">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ProcessID">8232</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 124
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.064112Z">
+    </TimeCreated>
+    <EventRecordID>124</EventRecordID>
+    <Correlation ActivityID="4C8947CF-3A58-4B46-98DD-A17518F44CD3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 125
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.064113Z">
+    </TimeCreated>
+    <EventRecordID>125</EventRecordID>
+    <Correlation ActivityID="4C8947CF-3A58-4B46-98DD-A17518F44CD3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="TaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+    <Data Name="EnginePID">8232</Data>
+  </EventData>
+</Event>
+Record 126
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>324</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>324</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.064374Z">
+    </TimeCreated>
+    <EventRecordID>126</EventRecordID>
+    <Correlation ActivityID="88A3047E-52F9-4742-8BF5-30F6DAD1218F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceQueued">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="QueuedTaskInstanceId">88A3047E-52F9-4742-8BF5-30F6DAD1218F</Data>
+    <Data Name="RunningTaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 127
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>324</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>324</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.064449Z">
+    </TimeCreated>
+    <EventRecordID>127</EventRecordID>
+    <Correlation ActivityID="930F0959-2F59-462F-9EC3-C6496A451C04">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="9336">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceQueued">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="QueuedTaskInstanceId">930F0959-2F59-462F-9EC3-C6496A451C04</Data>
+    <Data Name="RunningTaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 128
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>324</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>324</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.064941Z">
+    </TimeCreated>
+    <EventRecordID>128</EventRecordID>
+    <Correlation ActivityID="767973AD-BD87-4D07-B425-57F397840E42">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceQueued">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="QueuedTaskInstanceId">767973AD-BD87-4D07-B425-57F397840E42</Data>
+    <Data Name="RunningTaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 129
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>324</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>324</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.065020Z">
+    </TimeCreated>
+    <EventRecordID>129</EventRecordID>
+    <Correlation ActivityID="E5C9FFFF-EE5B-4846-B4D0-2878F57AF5AC">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceQueued">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="QueuedTaskInstanceId">E5C9FFFF-EE5B-4846-B4D0-2878F57AF5AC</Data>
+    <Data Name="RunningTaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 130
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>324</EventID>
+    <Version>0</Version>
+    <Level>3</Level>
+    <Task>324</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.065086Z">
+    </TimeCreated>
+    <EventRecordID>130</EventRecordID>
+    <Correlation ActivityID="FE1E74FF-3037-46CD-BD8C-CD4A546FC975">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="NewInstanceQueued">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="QueuedTaskInstanceId">FE1E74FF-3037-46CD-BD8C-CD4A546FC975</Data>
+    <Data Name="RunningTaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 131
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.181851Z">
+    </TimeCreated>
+    <EventRecordID>131</EventRecordID>
+    <Correlation ActivityID="4C8947CF-3A58-4B46-98DD-A17518F44CD3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="TaskInstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">8232</Data>
+  </EventData>
+</Event>
+Record 132
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.181969Z">
+    </TimeCreated>
+    <EventRecordID>132</EventRecordID>
+    <Correlation ActivityID="4C8947CF-3A58-4B46-98DD-A17518F44CD3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">4C8947CF-3A58-4B46-98DD-A17518F44CD3</Data>
+  </EventData>
+</Event>
+Record 133
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.184000Z">
+    </TimeCreated>
+    <EventRecordID>133</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="Path">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ProcessID">10144</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 134
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.184097Z">
+    </TimeCreated>
+    <EventRecordID>134</EventRecordID>
+    <Correlation ActivityID="F1AC729C-6152-4AD1-84FD-00E9A08E7783">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">F1AC729C-6152-4AD1-84FD-00E9A08E7783</Data>
+  </EventData>
+</Event>
+Record 135
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.184098Z">
+    </TimeCreated>
+    <EventRecordID>135</EventRecordID>
+    <Correlation ActivityID="F1AC729C-6152-4AD1-84FD-00E9A08E7783">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="TaskInstanceId">F1AC729C-6152-4AD1-84FD-00E9A08E7783</Data>
+    <Data Name="EnginePID">10144</Data>
+  </EventData>
+</Event>
+Record 136
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.197870Z">
+    </TimeCreated>
+    <EventRecordID>136</EventRecordID>
+    <Correlation ActivityID="F1AC729C-6152-4AD1-84FD-00E9A08E7783">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="TaskInstanceId">F1AC729C-6152-4AD1-84FD-00E9A08E7783</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">10144</Data>
+  </EventData>
+</Event>
+Record 137
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.197996Z">
+    </TimeCreated>
+    <EventRecordID>137</EventRecordID>
+    <Correlation ActivityID="F1AC729C-6152-4AD1-84FD-00E9A08E7783">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">F1AC729C-6152-4AD1-84FD-00E9A08E7783</Data>
+  </EventData>
+</Event>
+Record 138
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.200200Z">
+    </TimeCreated>
+    <EventRecordID>138</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10504">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="Path">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ProcessID">10272</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 139
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.200482Z">
+    </TimeCreated>
+    <EventRecordID>139</EventRecordID>
+    <Correlation ActivityID="7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10504">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F</Data>
+  </EventData>
+</Event>
+Record 140
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.200483Z">
+    </TimeCreated>
+    <EventRecordID>140</EventRecordID>
+    <Correlation ActivityID="7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10504">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="TaskInstanceId">7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F</Data>
+    <Data Name="EnginePID">10272</Data>
+  </EventData>
+</Event>
+Record 141
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.219416Z">
+    </TimeCreated>
+    <EventRecordID>141</EventRecordID>
+    <Correlation ActivityID="7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="TaskInstanceId">7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">10272</Data>
+  </EventData>
+</Event>
+Record 142
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.219535Z">
+    </TimeCreated>
+    <EventRecordID>142</EventRecordID>
+    <Correlation ActivityID="7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">7AA3D3FB-8C83-440B-B5C9-C92CCFF1734F</Data>
+  </EventData>
+</Event>
+Record 143
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.221444Z">
+    </TimeCreated>
+    <EventRecordID>143</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="Path">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ProcessID">2980</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 144
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.221546Z">
+    </TimeCreated>
+    <EventRecordID>144</EventRecordID>
+    <Correlation ActivityID="4598DD0C-6993-4668-8A5F-6B3001899E1F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">4598DD0C-6993-4668-8A5F-6B3001899E1F</Data>
+  </EventData>
+</Event>
+Record 145
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.221547Z">
+    </TimeCreated>
+    <EventRecordID>145</EventRecordID>
+    <Correlation ActivityID="4598DD0C-6993-4668-8A5F-6B3001899E1F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="TaskInstanceId">4598DD0C-6993-4668-8A5F-6B3001899E1F</Data>
+    <Data Name="EnginePID">2980</Data>
+  </EventData>
+</Event>
+Record 146
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.236657Z">
+    </TimeCreated>
+    <EventRecordID>146</EventRecordID>
+    <Correlation ActivityID="4598DD0C-6993-4668-8A5F-6B3001899E1F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="TaskInstanceId">4598DD0C-6993-4668-8A5F-6B3001899E1F</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">2980</Data>
+  </EventData>
+</Event>
+Record 147
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.236772Z">
+    </TimeCreated>
+    <EventRecordID>147</EventRecordID>
+    <Correlation ActivityID="4598DD0C-6993-4668-8A5F-6B3001899E1F">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\thom</Data>
+    <Data Name="InstanceId">4598DD0C-6993-4668-8A5F-6B3001899E1F</Data>
+  </EventData>
+</Event>
+Record 148
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.238945Z">
+    </TimeCreated>
+    <EventRecordID>148</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="Path">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ProcessID">12048</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 149
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.239047Z">
+    </TimeCreated>
+    <EventRecordID>149</EventRecordID>
+    <Correlation ActivityID="5EC3FC64-9687-4142-B03D-29BBA94C5FC3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">5EC3FC64-9687-4142-B03D-29BBA94C5FC3</Data>
+  </EventData>
+</Event>
+Record 150
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.239048Z">
+    </TimeCreated>
+    <EventRecordID>150</EventRecordID>
+    <Correlation ActivityID="5EC3FC64-9687-4142-B03D-29BBA94C5FC3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="13168">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="TaskInstanceId">5EC3FC64-9687-4142-B03D-29BBA94C5FC3</Data>
+    <Data Name="EnginePID">12048</Data>
+  </EventData>
+</Event>
+Record 151
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.256007Z">
+    </TimeCreated>
+    <EventRecordID>151</EventRecordID>
+    <Correlation ActivityID="5EC3FC64-9687-4142-B03D-29BBA94C5FC3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="TaskInstanceId">5EC3FC64-9687-4142-B03D-29BBA94C5FC3</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">12048</Data>
+  </EventData>
+</Event>
+Record 152
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.256126Z">
+    </TimeCreated>
+    <EventRecordID>152</EventRecordID>
+    <Correlation ActivityID="5EC3FC64-9687-4142-B03D-29BBA94C5FC3">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\zeus</Data>
+    <Data Name="InstanceId">5EC3FC64-9687-4142-B03D-29BBA94C5FC3</Data>
+  </EventData>
+</Event>
+Record 153
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.258411Z">
+    </TimeCreated>
+    <EventRecordID>153</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="2328">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="Path">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ProcessID">4784</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 154
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.258509Z">
+    </TimeCreated>
+    <EventRecordID>154</EventRecordID>
+    <Correlation ActivityID="2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="2328">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88</Data>
+  </EventData>
+</Event>
+Record 155
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.258510Z">
+    </TimeCreated>
+    <EventRecordID>155</EventRecordID>
+    <Correlation ActivityID="2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="2328">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="TaskInstanceId">2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88</Data>
+    <Data Name="EnginePID">4784</Data>
+  </EventData>
+</Event>
+Record 156
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>201</EventID>
+    <Version>2</Version>
+    <Level>4</Level>
+    <Task>201</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.276472Z">
+    </TimeCreated>
+    <EventRecordID>156</EventRecordID>
+    <Correlation ActivityID="2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionSuccess">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="TaskInstanceId">2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88</Data>
+    <Data Name="ActionName">%windir%\system32\AppHostRegistrationVerifier.exe</Data>
+    <Data Name="ResultCode">0</Data>
+    <Data Name="EnginePID">4784</Data>
+  </EventData>
+</Event>
+Record 157
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>102</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>102</Task>
+    <Opcode>2</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:50:49.276593Z">
+    </TimeCreated>
+    <EventRecordID>157</EventRecordID>
+    <Correlation ActivityID="2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskSuccessEvent">
+    <Data Name="TaskName">\microsoft\windows\applicationdata\appuriverifierinstall</Data>
+    <Data Name="UserContext">DESKTOP-P5L8521\agent</Data>
+    <Data Name="InstanceId">2CF2E27B-7F79-410C-AEFF-B0D57F8FEF88</Data>
+  </EventData>
+</Event>
+Record 158
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>129</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>129</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:35.503418Z">
+    </TimeCreated>
+    <EventRecordID>158</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="CreatedTaskProcess">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="Path">taskhostw.exe</Data>
+    <Data Name="ProcessID">9312</Data>
+    <Data Name="Priority">16384</Data>
+  </EventData>
+</Event>
+Record 159
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>100</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>100</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:35.503556Z">
+    </TimeCreated>
+    <EventRecordID>159</EventRecordID>
+    <Correlation ActivityID="BB9DB362-27F9-44D8-894B-42AD1BE796B0">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskStartEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="InstanceId">BB9DB362-27F9-44D8-894B-42AD1BE796B0</Data>
+  </EventData>
+</Event>
+Record 160
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>200</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>200</Task>
+    <Opcode>1</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:35.503557Z">
+    </TimeCreated>
+    <EventRecordID>160</EventRecordID>
+    <Correlation ActivityID="BB9DB362-27F9-44D8-894B-42AD1BE796B0">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionStart">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="ActionName">NGC Pregeneration Task Handler</Data>
+    <Data Name="TaskInstanceId">BB9DB362-27F9-44D8-894B-42AD1BE796B0</Data>
+    <Data Name="EnginePID">9312</Data>
+  </EventData>
+</Event>
+Record 161
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>202</EventID>
+    <Version>1</Version>
+    <Level>2</Level>
+    <Task>202</Task>
+    <Opcode>102</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:35.518983Z">
+    </TimeCreated>
+    <EventRecordID>161</EventRecordID>
+    <Correlation ActivityID="BB9DB362-27F9-44D8-894B-42AD1BE796B0">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="ActionFailure">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="TaskInstanceId">BB9DB362-27F9-44D8-894B-42AD1BE796B0</Data>
+    <Data Name="ActionName">NGC Pregeneration Task Handler</Data>
+    <Data Name="ResultCode">2148073520</Data>
+    <Data Name="EnginePID">9312</Data>
+  </EventData>
+</Event>
+Record 162
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>103</EventID>
+    <Version>0</Version>
+    <Level>2</Level>
+    <Task>103</Task>
+    <Opcode>102</Opcode>
+    <Keywords>0x8000000000000001</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:35.518984Z">
+    </TimeCreated>
+    <EventRecordID>162</EventRecordID>
+    <Correlation ActivityID="BB9DB362-27F9-44D8-894B-42AD1BE796B0">
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskFailureEvent">
+    <Data Name="TaskName">\Microsoft\Windows\CertificateServicesClient\KeyPreGenTask</Data>
+    <Data Name="InstanceId">BB9DB362-27F9-44D8-894B-42AD1BE796B0</Data>
+    <Data Name="UserContext">NT AUTHORITY\SYSTEM</Data>
+    <Data Name="ResultCode">2148073520</Data>
+  </EventData>
+</Event>
+Record 163
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:36.142758Z">
+    </TimeCreated>
+    <EventRecordID>163</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 164
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:36.167270Z">
+    </TimeCreated>
+    <EventRecordID>164</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 165
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:36.172255Z">
+    </TimeCreated>
+    <EventRecordID>165</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 166
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:36.175889Z">
+    </TimeCreated>
+    <EventRecordID>166</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 167
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:36.181144Z">
+    </TimeCreated>
+    <EventRecordID>167</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">S-1-5-18</Data>
+  </EventData>
+</Event>
+Record 168
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:51:36.184284Z">
+    </TimeCreated>
+    <EventRecordID>168</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>
+Record 169
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-TaskScheduler" Guid="DE7B24EA-73C8-4A09-985D-5BDADCFA9017">
+    </Provider>
+    <EventID>140</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>140</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2025-07-02T22:52:06.135911Z">
+    </TimeCreated>
+    <EventRecordID>169</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="1060" ThreadID="10288">
+    </Execution>
+    <Channel>Microsoft-Windows-TaskScheduler/Operational</Channel>
+    <Computer>DESKTOP-P5L8521</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <EventData Name="TaskUpdated">
+    <Data Name="TaskName">\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask</Data>
+    <Data Name="UserName">WORKGROUP\DESKTOP-P5L8521$</Data>
+  </EventData>
+</Event>

@@ -1,0 +1,12 @@
+HTTP/2 200 
+content-type: text/html
+content-length: 186
+date: Sat, 13 Sep 2025 03:51:40 GMT
+last-modified: Tue, 13 Jun 2023 12:33:51 GMT
+server: AmazonS3
+etag: "6f0dfb056f68775ec530278f4dcc16df"
+x-cache: Miss from cloudfront
+via: 1.1 666df5a6f6c7e4d9718a0e9301903340.cloudfront.net (CloudFront)
+x-amz-cf-pop: PHX52-P1
+x-amz-cf-id: 7Hhm6jj0wC87LTadcAXK8cZY17r-UZwVFEUKhqIFRIvm1gssmyYE-g==
+
